@@ -9,3 +9,4 @@ The library allows you to read as celcius and fahrenheit. If you want to read in
 
 # Notes
 The library provides you with the delay function. You can call this function by typing LM75a_Delay (). It also receives data in milliseconds as input.
+ 
